@@ -21,7 +21,7 @@ Hacktoberfest is a month-long open source contribution program hosted by Digital
 - This year the first 55,000 participants will be eligible for the prize.<br>
 
 ## <b>How to contribute?</b>
-Read [`RULES.md`](https://github.com/jatinkumar027/HacktoberFest-2021/blob/main/RULES.md) before creating a pull request
+Read [`RULES.md`](https://github.com/jatinkumar027/Hacktoberfest-2021/blob/main/Rules.md) before creating a pull request
 
 **PRs violating the rules will be closed and reported *Spam*! :x:**
 <br>
