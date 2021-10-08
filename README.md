@@ -99,4 +99,4 @@ This repository and the contained files are licensed under MIT License. See [LIC
 
 ---
 
-<p align = "center"><b>:heart: Thank You for your participation! ❤️:</b></p>
+<p align = "center"><b>:heart: Thank You for your participation! ❤️</b></p>
